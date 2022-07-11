@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CristiDev\obj\Debug\mainwindow.g.cs
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev_MarkupCompile.cache
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev_MarkupCompile.lref
+C:\Users\User\source\repos\CristiDev\bin\Debug\CristiDev.exe
+C:\Users\User\source\repos\CristiDev\bin\Debug\CristiDev.pdb
+C:\Users\User\source\repos\CristiDev\obj\Debug\mainwindow.baml
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.g.resources
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.Properties.Resources.resources
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.exe
+C:\Users\User\source\repos\CristiDev\obj\Debug\CristiDev.pdb
